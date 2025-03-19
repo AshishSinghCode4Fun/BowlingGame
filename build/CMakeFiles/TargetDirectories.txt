@@ -1,5 +1,4 @@
-C:/Ashish/myWork/coding/learning/projects/tataTechnolgies_project/BowlingGame/build/CMakeFiles/BowlingGame.dir
-C:/Ashish/myWork/coding/learning/projects/tataTechnolgies_project/BowlingGame/build/CMakeFiles/BowlingGameTests.dir
-C:/Ashish/myWork/coding/learning/projects/tataTechnolgies_project/BowlingGame/build/CMakeFiles/RUN_TESTS.dir
-C:/Ashish/myWork/coding/learning/projects/tataTechnolgies_project/BowlingGame/build/CMakeFiles/ALL_BUILD.dir
-C:/Ashish/myWork/coding/learning/projects/tataTechnolgies_project/BowlingGame/build/CMakeFiles/ZERO_CHECK.dir
+/home/ashish/myWork/project/tata_technologies_project/BowlingGame/build/CMakeFiles/BowlingGame.dir
+/home/ashish/myWork/project/tata_technologies_project/BowlingGame/build/CMakeFiles/BowlingGameTests.dir
+/home/ashish/myWork/project/tata_technologies_project/BowlingGame/build/CMakeFiles/edit_cache.dir
+/home/ashish/myWork/project/tata_technologies_project/BowlingGame/build/CMakeFiles/rebuild_cache.dir
