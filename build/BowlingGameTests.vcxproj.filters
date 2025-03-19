@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Ashish\myWork\coding\learning\projects\tataTechnolgies_project\BowlingGame\tests\bowling_game_tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Ashish\myWork\coding\learning\projects\tataTechnolgies_project\BowlingGame\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{807E4C3C-A0C1-3353-81AC-F436BBB919A0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
